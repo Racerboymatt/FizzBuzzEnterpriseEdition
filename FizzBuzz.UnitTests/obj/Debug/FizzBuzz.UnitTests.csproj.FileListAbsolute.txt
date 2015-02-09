@@ -1,0 +1,13 @@
+C:\Code\LetsDoThis\FizzBuzz.UnitTests\bin\Debug\FizzBuzz.UnitTests.dll
+C:\Code\LetsDoThis\FizzBuzz.UnitTests\bin\Debug\FizzBuzz.UnitTests.pdb
+C:\Code\LetsDoThis\FizzBuzz.UnitTests\bin\Debug\FluentAssertions.Core.dll
+C:\Code\LetsDoThis\FizzBuzz.UnitTests\bin\Debug\FluentAssertions.dll
+C:\Code\LetsDoThis\FizzBuzz.UnitTests\bin\Debug\nunit.framework.dll
+C:\Code\LetsDoThis\FizzBuzz.UnitTests\bin\Debug\FluentAssertions.pdb
+C:\Code\LetsDoThis\FizzBuzz.UnitTests\bin\Debug\FluentAssertions.xml
+C:\Code\LetsDoThis\FizzBuzz.UnitTests\bin\Debug\FluentAssertions.Core.pdb
+C:\Code\LetsDoThis\FizzBuzz.UnitTests\bin\Debug\FluentAssertions.Core.xml
+C:\Code\LetsDoThis\FizzBuzz.UnitTests\bin\Debug\nunit.framework.xml
+C:\Code\LetsDoThis\FizzBuzz.UnitTests\obj\Debug\FizzBuzz.UnitTests.csprojResolveAssemblyReference.cache
+C:\Code\LetsDoThis\FizzBuzz.UnitTests\obj\Debug\FizzBuzz.UnitTests.dll
+C:\Code\LetsDoThis\FizzBuzz.UnitTests\obj\Debug\FizzBuzz.UnitTests.pdb

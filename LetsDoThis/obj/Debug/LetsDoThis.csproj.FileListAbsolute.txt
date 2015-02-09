@@ -1,0 +1,8 @@
+C:\Code\LetsDoThis\LetsDoThis\bin\Debug\LetsDoThis.exe.config
+C:\Code\LetsDoThis\LetsDoThis\bin\Debug\LetsDoThis.exe
+C:\Code\LetsDoThis\LetsDoThis\bin\Debug\LetsDoThis.pdb
+C:\Code\LetsDoThis\LetsDoThis\bin\Debug\FizzBuzz.dll
+C:\Code\LetsDoThis\LetsDoThis\bin\Debug\FizzBuzz.pdb
+C:\Code\LetsDoThis\LetsDoThis\obj\Debug\LetsDoThis.csprojResolveAssemblyReference.cache
+C:\Code\LetsDoThis\LetsDoThis\obj\Debug\LetsDoThis.exe
+C:\Code\LetsDoThis\LetsDoThis\obj\Debug\LetsDoThis.pdb
