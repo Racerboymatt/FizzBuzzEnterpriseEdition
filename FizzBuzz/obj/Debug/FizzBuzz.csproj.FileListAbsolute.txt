@@ -1,5 +1,0 @@
-C:\Code\LetsDoThis\FizzBuzz\bin\Debug\FizzBuzz.dll
-C:\Code\LetsDoThis\FizzBuzz\bin\Debug\FizzBuzz.pdb
-C:\Code\LetsDoThis\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
-C:\Code\LetsDoThis\FizzBuzz\obj\Debug\FizzBuzz.dll
-C:\Code\LetsDoThis\FizzBuzz\obj\Debug\FizzBuzz.pdb

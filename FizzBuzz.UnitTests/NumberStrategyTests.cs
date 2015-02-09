@@ -1,4 +1,7 @@
-﻿using NUnit.Framework;
+﻿using System.Globalization;
+using FizzBuzz.Strategies;
+using FluentAssertions;
+using NUnit.Framework;
 
 namespace FizzBuzz.UnitTests
 {
@@ -8,7 +11,9 @@ namespace FizzBuzz.UnitTests
         [Test]
         public void ShouldReturnNumberWhenPassedInt()
         {
-            //NumberStrategy strategy = new NumberStrategy();   
+            const long l = 12121;
+            var strategy = new NumberStrategy(l);
+            strategy.Doit().Should().Be(l.ToString(CultureInfo.InvariantCulture));
         }
     }
 }
