@@ -48,7 +48,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="NumberStrategyTests.cs" />
+    <Compile Include="FactoryTests\FizzBuzzAbstractFactoryTests.cs" />
+    <Compile Include="FactoryTests\FizzBuzzClassicFactoryTests.cs" />
+    <Compile Include="FactoryTests\FizzBuzzDynamicFactoryTests.cs" />
+    <Compile Include="FizzBuzzManagerTests.cs" />
+    <Compile Include="StrategyTests\BuzzStrategyTests.cs" />
+    <Compile Include="StrategyTests\DynamicStrategyTests.cs" />
+    <Compile Include="StrategyTests\FizzBuzzStrategyTests.cs" />
+    <Compile Include="StrategyTests\FizzStrategyTests.cs" />
+    <Compile Include="StrategyTests\NumberStrategyTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -60,6 +68,7 @@
       <Name>FizzBuzz</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

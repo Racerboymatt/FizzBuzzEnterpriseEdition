@@ -5,18 +5,11 @@ namespace FizzBuzz
 {
     public class FizzBuzzManager
     {
-        private readonly IEnumerable<FizzBuzzConfiguration> _configurations;
-
-        public FizzBuzzManager(IEnumerable<FizzBuzzConfiguration> configurations)
-        {
-            _configurations = configurations;
-        }
-            
-        public IEnumerable<string> DoIt()
+        public IEnumerable<string> DoIt(long boundary = 100, IEnumerable<FizzBuzzConfiguration> configurations = null)
         {
             var abstractFactory = new FizzBuzzAbstractFactory();
-            var factory = abstractFactory.GetFactory(_configurations);
-            for (long l = 1; l <= long.MaxValue; l++)
+            var factory = abstractFactory.GetFactory(configurations);
+            for (long l = 1; l <= boundary; l++)
             {
                 yield return factory.GetStrategy(l).Doit();
             }
